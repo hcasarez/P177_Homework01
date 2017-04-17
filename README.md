@@ -18,4 +18,7 @@ Physics 177 HW #1
 
 ### MY LATEX EQUATION
 
-- $e^{i\pi} +1 = 0$
+- $e ^ {i\pi} + 1 = 0$
+
+
+[Your Name Trailer](https://www.youtube.com/watch?v=s0wTdCQoc2k) <-----
